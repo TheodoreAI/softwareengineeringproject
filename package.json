@@ -1,0 +1,19 @@
+{
+  "name": "softwareengineeringproject",
+  "version": "1.0.0",
+  "description": "Flashcard project for CS 361",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheodoreAI/softwareengineeringproject.git"
+  },
+  "author": "Rhonda Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheodoreAI/softwareengineeringproject/issues"
+  },
+  "homepage": "https://github.com/TheodoreAI/softwareengineeringproject#readme"
+}
